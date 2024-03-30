@@ -1,0 +1,52 @@
+html{
+    font-size: 1.5rem ;
+    margin: 100px; 
+}
+
+
+
+body{
+    background-color: #EEF0E5;
+}
+
+h1{
+    text-align: center;
+    font-size: 2rem;
+    font-family: Cursive;
+    font-weight: 900;
+    color: #163020;
+}
+
+h2{
+    color: #304D30;
+}
+
+h3{
+    color: #304D30;
+}
+
+
+::placeholder{
+    color: gold;
+}
+
+label{
+    color: red;
+    font-size: 1;
+}
+
+input {
+    color: red;
+}
+
+
+.container {
+    text-align: center; 
+  }
+
+.image {
+    display: inline-block; 
+    max-width: 100%; 
+    height: auto; 
+    margin: 10px; 
+  }
